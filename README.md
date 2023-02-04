@@ -10,7 +10,7 @@ I'm a 20-year-old developer with 4 years of experience. I'm proficient in langua
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helixodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HelixoDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=helixodev&theme=onedark)]
 
 ---
 ![](https://komarev.com/ghpvc/?username=helixodev&style=flat-square)
